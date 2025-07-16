@@ -2,7 +2,7 @@
 
  IT Graduate from Rosebank College  
  Based in Johannesburg, South Africa  
- Passionate about AI, Machine Learning, and Systems Development  
+ Passionate about AI, Data Analytics, and Systems Development  
 📊 Currently in an AI & Machine Learning program at CAPACITI  
  [Connect with me on LinkedIn](https://www.linkedin.com/in/nompumelelo-mkhabela-8aa563247)
 
