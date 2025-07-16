@@ -27,7 +27,7 @@ I’m committed to solving real-world problems through technology while maintain
 - Email: nompumelelomkhabela2002@gmail.com
 - LinkedIn: [Nompumelelo Mkhabela](https://www.linkedin.com/in/nompumelelo-mkhabela-8aa563247)
 
-### 🛠 Skills
+###  Skills
 | **AI & Machine Learning** | **Data Science & Analytics** | **Full-Stack Development** | **Professional Skills** |
 |--------------------------|-----------------------------|---------------------------|------------------------|
 | Python (Pandas, Scikit-learn) | SQL & Database Management | JavaScript (React, Node.js) | Project Management |
