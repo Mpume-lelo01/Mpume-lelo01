@@ -34,9 +34,9 @@ I’m committed to solving real-world problems through technology while maintain
 | TensorFlow & PyTorch | Power BI & Tableau | HTML5 & CSS3 | Agile Methodologies |
 | NLP | Data Visualization | RESTful APIs | Problem-Solving |
 
- Featured Projects
+**Featured Projects**
 
-AI-Powered Recommendation System
+**AI-Powered Recommendation System**
 
 Developed a machine learning recommendation engine using collaborative filtering and content-based algorithms, implemented with Python, scikit-learn, and deployed with Flask.
 Tech Stack: Python, Machine Learning, Flask, Pandas
@@ -44,7 +44,7 @@ Tech Stack: Python, Machine Learning, Flask, Pandas
  Live Demo (Coming soon)
 
 
-Interactive Data Analytics Dashboard
+**Interactive Data Analytics Dashboard**
 
 Built a comprehensive Power BI dashboard for business intelligence with real-time data visualization, KPI tracking, and automated reporting capabilities.
 Tech Stack: Power BI, SQL, Data Modeling, DAX
@@ -52,7 +52,7 @@ Tech Stack: Power BI, SQL, Data Modeling, DAX
  Live Demo (Coming soon)
 
 
-Full-Stack Web Application
+**Full-Stack Web Application**
 
 Created a responsive web application with user authentication, database integration, and real-time features using React, Node.js, and MongoDB.
 Tech Stack: React, Node.js, MongoDB, Express.js
@@ -60,7 +60,7 @@ Tech Stack: React, Node.js, MongoDB, Express.js
  Live Demo (Coming soon)
 
 
-Intelligent Resume Generator
+**Intelligent Resume Generator**
 
 An AI-powered resume builder that generates customized, ATS-friendly resumes with job description matching and keyword optimization.
 Tech Stack: AI, ATS, Export, Keyword Matching
@@ -68,7 +68,7 @@ Tech Stack: AI, ATS, Export, Keyword Matching
  Live Demo (Coming soon)
 
 
-Sentiment Analysis Dashboard
+**Sentiment Analysis Dashboard**
 
 An interactive NLP dashboard for sentiment analysis with multi-class classification, keyword extraction, and visualization, built using Streamlit and Hugging Face API.
 Tech Stack: NLP, Streamlit, Hugging Face, CSV/JSON Export
@@ -76,7 +76,7 @@ Tech Stack: NLP, Streamlit, Hugging Face, CSV/JSON Export
  Live Demo (Coming soon)
 
 
-Bias Audit Report (Group Project)
+**Bias Audit Report**
 
 Analyzed a biased ML dataset using fairness metrics, visualized bias patterns, and proposed ethical improvements.
 Tech Stack: Fairness, Python, AI Ethics, Jupyter Notebook
@@ -84,7 +84,7 @@ Tech Stack: Fairness, Python, AI Ethics, Jupyter Notebook
  Report (Coming soon)
 
 
-Capstone: End-to-End AI Solution
+**Capstone: End-to-End AI Solution**
 
 Designed a full AI system integrating language, vision, and speech APIs with frontend/backend logic and secure data storage.
 Tech Stack: AI Integration, APIs, Full-Stack, Security
